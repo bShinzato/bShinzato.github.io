@@ -11,8 +11,6 @@ function App() {
             <li>Fishing</li>
             <li>Netflix</li>
             <li>Driving</li>
-      
-
         </ul>
         <img src={logo} className="App-logo" alt="logo" />
         <p>

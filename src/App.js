@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Brandon Shinzato</h1>
-        <p>About Me I like to do a lot of things!</p>
+        <p>About Me I like to do a lot of things! Maybe we have Similarities?</p>
         <ul>
             <li>Fishing</li>
             <li>Netflix</li>
